@@ -12,3 +12,6 @@
 
 
 로블강제열기.exe 를 다운로드 후 USB에서 실행하세요
+
+
+다운로드 링크: https://github.com/hyedol2/RobloxLauncherWithoutAdmin/releases/tag/%EB%A1%9C%EB%B8%94%EB%A1%9D%EC%8A%A4
